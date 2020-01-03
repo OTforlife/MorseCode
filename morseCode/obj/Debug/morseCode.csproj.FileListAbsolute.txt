@@ -1,0 +1,11 @@
+/Users/nathanbecinski/Projects/morseCode/morseCode/bin/Debug/morseCode.exe
+/Users/nathanbecinski/Projects/morseCode/morseCode/bin/Debug/morseCode.pdb
+/Users/nathanbecinski/Projects/morseCode/morseCode/obj/Debug/morseCode.csprojAssemblyReference.cache
+/Users/nathanbecinski/Projects/morseCode/morseCode/obj/Debug/morseCode.csproj.CoreCompileInputs.cache
+/Users/nathanbecinski/Projects/morseCode/morseCode/obj/Debug/morseCode.exe
+/Users/nathanbecinski/Projects/morseCode/morseCode/obj/Debug/morseCode.pdb
+/Users/nathanbecinski/Desktop/Projects/morseCode/morseCode/bin/Debug/morseCode.exe
+/Users/nathanbecinski/Desktop/Projects/morseCode/morseCode/bin/Debug/morseCode.pdb
+/Users/nathanbecinski/Desktop/Projects/morseCode/morseCode/obj/Debug/morseCode.csprojAssemblyReference.cache
+/Users/nathanbecinski/Desktop/Projects/morseCode/morseCode/obj/Debug/morseCode.exe
+/Users/nathanbecinski/Desktop/Projects/morseCode/morseCode/obj/Debug/morseCode.pdb

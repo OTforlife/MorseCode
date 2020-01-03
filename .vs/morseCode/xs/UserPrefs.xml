@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AE7D69AA-D81A-4073-B195-DC56634F137A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="morseCode/Program.cs">
+    <Files>
+      <File FileName="morseCode/Program.cs" Line="129" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="morseCode" expanded="True">
+            <Node name="morseCode" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.morseCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
